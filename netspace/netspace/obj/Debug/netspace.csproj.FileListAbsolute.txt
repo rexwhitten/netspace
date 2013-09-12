@@ -1,0 +1,12 @@
+P:\netspace\netspace\netspace\bin\Debug\netspace.exe.config
+P:\netspace\netspace\netspace\obj\Debug\netspace.csprojResolveAssemblyReference.cache
+P:\netspace\netspace\netspace\bin\Debug\netspace.exe
+P:\netspace\netspace\netspace\bin\Debug\netspace.pdb
+P:\netspace\netspace\netspace\obj\Debug\netspace.exe
+P:\netspace\netspace\netspace\obj\Debug\netspace.pdb
+P:\netspace\netspace\netspace\bin\Debug\Newtonsoft.Json.dll
+P:\netspace\netspace\netspace\bin\Debug\Newtonsoft.Json.xml
+P:\netspace\netspace\netspace\bin\Debug\Ini\servers.ini
+P:\netspace\netspace\netspace\bin\Debug\INIFileParser.dll
+P:\netspace\netspace\netspace\bin\Debug\INIFileParser.xml
+P:\netspace\netspace\netspace\bin\Debug\Cache\cache.directory.info
